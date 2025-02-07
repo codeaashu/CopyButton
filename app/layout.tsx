@@ -51,7 +51,9 @@ export default function RootLayout({
         />
       ) : null}
       <Toaster />
-      <body className={`${inter.className} overflow-x-hidden`}>{children}</body>
+      <body className={`${inter.className} overflow-x-hidden bg-gray-900 text-white`}>
+        {children}
+      </body>
     </html>
   );
 }
