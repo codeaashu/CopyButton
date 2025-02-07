@@ -33,7 +33,7 @@ export const Home = () => {
             </div>
             <div className="mb-6">
               <h1 className="mb-1 text-xl font-medium text-neutral-900">
-                buttons.ibelick
+                CopyButton
               </h1>
               <div className="text-neutral-800">
                 <p>

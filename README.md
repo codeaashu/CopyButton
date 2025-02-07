@@ -1,3 +1,3 @@
- <img src="public/cover.png" width="100%" />
+ <img src="public/CopyButton.webp" width="100%" />
 
 <p align="center">A collection of buttons for Tailwind CSS.</p>
