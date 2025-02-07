@@ -7,7 +7,7 @@
 
   <h1 align="center">✦ A collection of buttons for Tailwind CSS. ✦</h1>
   <img src="./public/CopyButton.webp" width="100px" />
-  <br><a href="https://copybutton.vercel.app/"><strong>Copy Button</strong></a>
+  <br><a href="https://copybutton.vercel.app/"><strong>Copy Button</strong></a><br>
   
   
   ` CopyButton offers a sleek collection of Tailwind CSS buttons to elevate your website's look. Easy to integrate with a copy-paste, no js required! `
