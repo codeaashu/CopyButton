@@ -5,7 +5,7 @@ import { CardComponent } from "@/components/app/card-component";
 const ButtonGithubStar = () => {
   return (
     <a
-      href="https://github.com/ibelick/buttons"
+      href="https://github.com/codeaashu/CopyButton"
       target="_blank"
       className="group relative inline-flex cursor-pointer items-center rounded-md bg-neutral-950 px-3 py-1 text-sm text-white shadow-lg shadow-neutral-500/20 transition active:scale-[.95]
     "
@@ -40,7 +40,7 @@ export const Home = () => {
                   {`Discover a collection of Tailwind CSS buttons designed to enhance your
                   website's look.`}
                 </p>
-                <p>Easy to integrate with a copy-paste, no js</p>
+                <p>Easy to integrate with a copy-paste, no js required!</p>
               </div>
             </div>
           </div>
@@ -62,10 +62,10 @@ export const Home = () => {
           <span className="inline-flex text-sm text-neutral-900">
             Made by{" "}
             <a
-              href="https://twitter.com/ibelick"
+              href="https://twitter.com/warrior_aashuu"
               className="ml-1 inline-flex hover:underline"
             >
-              ibelick
+              warrior_aashuu
             </a>
           </span>
         </div>

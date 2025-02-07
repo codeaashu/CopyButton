@@ -9,16 +9,16 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Tailwind CSS button collection - Click-to-copy integration",
   description:
-    "Discover a collection of Tailwind CSS buttons designed to enhance your website's look. Easy to integrate with a copy-paste, no js.",
+    "Discover a collection of Tailwind CSS buttons designed to enhance your website's look. Easy to integrate with a copy-paste, no js required!",
   openGraph: {
     title: "Tailwind CSS button collection - Click-to-copy integration",
     description:
-      "Discover a collection of Tailwind CSS buttons designed to enhance your website's look. Easy to integrate with a copy-paste, no js.",
+      "Discover a collection of Tailwind CSS buttons designed to enhance your website's look. Easy to integrate with a copy-paste, no js required!",
     type: "website",
-    url: "https://buttons.ibelick.com",
+    url: "https://copybutton.vercel.app/",
     images: [
       {
-        url: "https://buttons.ibelick.com/opengraph-image.jpg",
+        url: "https://copybutton.vercel.app/opengraph-image.jpg",
         alt: "Tailwind CSS button collection - Click-to-copy integration",
       },
     ],
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     site: "@ibelick",
     images: [
       {
-        url: "https://buttons.ibelick.com/opengraph-image.jpg",
+        url: "https://copybutton.vercel.app/opengraph-image.jpg",
         alt: "Tailwind CSS button collection - Click-to-copy integration",
       },
     ],
